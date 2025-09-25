@@ -4,7 +4,7 @@
 
 ## Contents
 - `notebooks/01_text_generation.ipynb` — HuggingFace text-generation quick test
-- `notebooks/02_summarization.ipynb` — (planned) summarization experiments
+- `notebooks/02_summarization.ipynb` — summarization experiments - Using BART, T5, Pegasus
 - `src/` — helper scripts
 
 ## Quickstart
