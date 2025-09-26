@@ -3,9 +3,12 @@
 **Small experiments and notebooks for prompt engineering, HF models, and quick GenAI prototypes.**
 
 ## Contents
-- `notebooks/01_text_generation.ipynb` — HuggingFace text-generation quick test
-- `notebooks/02_summarization.ipynb` — summarization experiments - Using BART, T5, Pegasus
-- `src/` — helper scripts
+- `notebooks/01_text_generation.ipynb` — Quick HuggingFace **text-generation** experiments (GPT-2, DistilGPT-2).  
+- `notebooks/02_summarization.ipynb` — Summarization experiments using **BART, T5, Pegasus** models.  
+- `notebooks/03_qa_with_context.ipynb` — Retrieval-based **QA with context** and FAISS indexing.  
+- `src/` — Helper scripts for PDF ingestion, text chunking, embeddings, FAISS index, and QA pipeline.  
+- `data/` — PDF files and other dataset resources.  
+- `requirements.txt` — Python dependencies for the project. 
 
 ## Quickstart
 1. Clone:
