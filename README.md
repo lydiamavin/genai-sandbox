@@ -2,6 +2,8 @@
 
 **Small experiments and notebooks for prompt engineering, HF models, and quick GenAI prototypes.**
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
 ## Contents
 - `notebooks/01_text_generation.ipynb` — Quick HuggingFace **text-generation** experiments (GPT-2, DistilGPT-2).  
 - `notebooks/02_summarization.ipynb` — Summarization experiments using **BART, T5, Pegasus** models.  
